@@ -1,7 +1,6 @@
 # **Hey there, I'm Mustaneer! 👋**  
 *Welcome to my corner of the internet where I build and break things in the world of cybersecurity and ethical hacking.*
 
-<img src="https://www.canva.com/design/DAGOYyt-k1g/O2v6Cc0_IAjYD6HrZk5g9g/edit?utm_content=DAGOYyt-k1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 
 ## **About Me**
 
