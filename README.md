@@ -1,7 +1,7 @@
 # **Hey there, I'm Mustaneer! 👋**  
 *Welcome to my corner of the internet where I build and break things in the world of cybersecurity and ethical hacking.*
 
-![Banner](https://www.canva.com/design/DAGOYyt-k1g/O2v6Cc0_IAjYD6HrZk5g9g/edit?utm_content=DAGOYyt-k1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img src="https://www.canva.com/design/DAGOYyt-k1g/O2v6Cc0_IAjYD6HrZk5g9g/edit?utm_content=DAGOYyt-k1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 
 ## **About Me**
 
@@ -24,7 +24,7 @@ I'm passionate about discovering security flaws, understanding vulnerabilities, 
 - [Vulnerability Scanner](https://github.com/your-username/repo) - A Python-based scanner
 
 ## **Connect with Me** 🤝  
-<a href="https://www.linkedin.com/in/your-profile/">
+<a href="https://www.linkedin.com/in/gangolli-mustaneer-09b185269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
 </a>
 
