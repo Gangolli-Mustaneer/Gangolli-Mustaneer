@@ -20,7 +20,7 @@ I'm passionate about discovering security flaws, understanding vulnerabilities, 
 
 🚀 Check out some of my work:
 - [Cybersecurity Tools](https://github.com/your-username/repo) 
-- [Vulnerability Scanner](https://github.com/your-username/repo) - A Python-based scanner
+- [Vulnerability Scanner](https://github.com/your-username/repo) 
 
 ## **Connect with Me** 🤝  
 <a href="https://www.linkedin.com/in/gangolli-mustaneer-09b185269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -32,6 +32,6 @@ Let’s connect and grow together in the field of cybersecurity!
 ---
 
 ### **GitHub Stats** 📊  
-![Mustaneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Mustaneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gangolli-Mustaneer&show_icons=true&theme=radical)
 
 ---
