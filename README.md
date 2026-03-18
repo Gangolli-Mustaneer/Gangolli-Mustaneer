@@ -6,7 +6,7 @@
 
 🔒 **Cybersecurity Enthusiast** | 💻 **Ethical Hacker in Training** | 🎓 **Final Year College Student**
 
-I'm passionate about discovering security flaws, understanding vulnerabilities, and creating robust defenses. Currently, I’m pursuing certification in ethical hacking while working on my final-year project. I love learning new tools and diving into complex systems to make the digital world a safer place!
+I'm passionate about discovering security flaws, understanding vulnerabilities, and creating robust defenses. Currently, I’m pursuing certification in ethical hacking. I love learning new tools and diving into complex systems to make the digital world a safer place!
 
 ### **Things I code with:**
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
