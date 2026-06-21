@@ -1,29 +1,28 @@
-# **Hey there, I'm Mustaneer! 👋**  
-*Welcome to my corner of the internet where I build and break things in the world of cybersecurity and ethical hacking.*
+# **Hey there, I'm Gangolli Mustaneer! 👋**  
+*Welcome to my GitHub! I am a **BCA Graduate** specializing in information security, penetration testing, and secure application development. I combine a strong foundational background in computer applications with practical expertise in evaluating and securing digital infrastructure.*
 
 
-## **About Me**
+## **💫 About Me**
 
-🔒 **Cybersecurity Enthusiast** | 💻 **Ethical Hacker in Training** | 🎓 **Final Year College Student**
+**🎓 *Academic Background:* Bachelor of Computer Applications (BCA).** 
+**🎯 *Security Competencies:* Advanced knowledge in network penetration testing, vulnerability assessment, and methodologies aligned with *CEH* and *CPENT* frameworks.** 
+**💻 *Technical Focus:* Web application security, infrastructure auditing, and building security-centric tools.**
+**🛠️ *Systems & Platforms:* Proficient in Linux administration and advanced command-line operations, leveraging security-focused distributions like *Kali Linux* as a primary environment for engineering and security auditing tasks.**
 
-I'm passionate about discovering security flaws, understanding vulnerabilities, and creating robust defenses. Currently, I’m pursuing certification in ethical hacking. I love learning new tools and diving into complex systems to make the digital world a safer place!
 
-### **Things I code with:**
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- **Tools**: ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-20B2AA?style=for-the-badge)
+### **💻 Tech Stack:**
 
-## **What I’m working on** 🛠️
-- **Final Year Project**: A project that identifies and prevents security vulnerabilities in web applications.
-- **Ethical Hacking Certification**: Expanding my skills in penetration testing and security analysis.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)<br>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-20B2AA?style=for-the-badge)
+
 
 ## **Projects & Repositories**
 
 🚀 Check out some of my work:
-- [Cybersecurity Tools](https://github.com/your-username/repo) 
-- [Vulnerability Scanner](https://github.com/your-username/repo) 
+- [WBMS]([https://github.com/your-username/repo](https://github.com/Gangolli-Mustaneer/WBMS.git)) 
+
 
 ## **Connect with Me** 🤝  
-<a href="https://www.linkedin.com/in/gangolli-mustaneer-09b185269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/gangolli-muhammad-mustaneer-09b185269/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
 </a>
 
@@ -31,7 +30,21 @@ Let’s connect and grow together in the field of cybersecurity!
 
 ---
 
-### **GitHub Stats** 📊  
-![Mustaneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gangolli-Mustaneer&show_icons=true&theme=radical)
+### **📊 GitHub Stats**  
+![](https://github-readme-stats.shion.dev/api?username=Gangolli-Mustaneer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Gangolli-Mustaneer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gangolli-Mustaneer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gangolli-Mustaneer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Gangolli-Mustaneer&icon=4&color=red)](https://visitcount.itsvg.in)
