@@ -1,5 +1,5 @@
 # **Hey there, I'm Gangolli Mustaneer! 👋**  
-*Welcome to my GitHub! I am a **BCA Graduate** specializing in information security, penetration testing, and secure application development. I combine a strong foundational background in computer applications with practical expertise in evaluating and securing digital infrastructure.*
+*Welcome to my GitHub! I am a **BCA Graduate** and **CyberSecurity Student** specializing in information security, penetration testing, and secure application development. I combine a strong foundational background in computer applications with practical expertise in evaluating and securing digital infrastructure.*
 
 
 ## **💫 About Me**
