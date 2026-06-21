@@ -44,4 +44,4 @@ Let’s connect and grow together in the field of cybersecurity!
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Gangolli-Mustaneer&icon=4&color=red)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Gangolli-Mustaneer&icon=4&color=blue)](https://visitcount.itsvg.in)
