@@ -15,7 +15,9 @@
 ## **Projects & Repositories**
 
 🚀 Check out some of my work:
-- [WBMS](https://github.com/Gangolli-Mustaneer/WBMS.git) 
+- [WBMS](https://github.com/Gangolli-Mustaneer/WBMS.git)
+- [RedForge](https://redforge-r9ql.onrender.com/)
+- [KilnSlip](https://kilnslip.pages.dev/)
 
 
 ## **Connect with Me** 🤝  
